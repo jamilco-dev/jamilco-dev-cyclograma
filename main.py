@@ -9,7 +9,6 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi1, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi3, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print(f'Hi4, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
