@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "jamilco-dev-cyclograma"
+version = "0.1.0"
+description = ""
+authors = ["Andrey Yudin <yudin_ag@ursip.ru>"]
+readme = "README.md"
+packages = [{include = "jamilco_dev_cyclograma"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
